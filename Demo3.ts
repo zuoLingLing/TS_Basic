@@ -20,8 +20,8 @@ const boys:{
 
 //类类型
 
-class Person{}
-const zyw:Person = new Person();
+// class Person{}
+// const zyw:Person = new Person();
 
 
 //函数类型（函数并且返回一个字符串类型的值）
