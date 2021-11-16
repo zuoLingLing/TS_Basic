@@ -6,14 +6,14 @@ class Person{
         return this.name+"say hello!"
     }
 }
-class Teacher extends Person{
+class Teachersc extends Person{
     public sayBye(){
         console.log(this.name+"say hello!");
         
     }
 
 }
-const hong = new Teacher();
+const hong = new Teachersc();
 hong.name="小红";
 hong.sayBye();
 let juzi  = hong.sayHello()
